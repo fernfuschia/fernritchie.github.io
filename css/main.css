@@ -228,14 +228,14 @@ header {
   .container {
     width: 100%; }
 
-  #info-bar a {
+  #footer a {
     display: block; }
-  #info-bar span.all-tutorials,
-  #info-bar span.back-to-tutorial {
+  #footer span.all-tutorials,
+  #footer span.back-to-tutorial {
     width: 100%; }
-  #info-bar span.all-tutorials,
-  #info-bar span.back-to-tutorial {
+  #footer span.all-tutorials,
+  #footer span.back-to-tutorial {
     float: none;
     text-align: center; }
-  #info-bar span.all-tutorials {
-    border-bottom: solid 1px #0793e2; } }
+  #footer span.all-tutorials {
+    border-bottom: solid 1px #404040; } }
