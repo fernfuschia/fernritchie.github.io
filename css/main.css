@@ -19,9 +19,10 @@ body {
   color: #404040;
   background-color: white;
   font-family: 'Ubuntu', sans-serif;
-  font-weight: 400;
-  font-size: 0.85em;
   overflow: hidden;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.8;
 }
 
 a {
@@ -174,7 +175,7 @@ a:hover {
 }
 
 .post p {
-  font-family: 'Source Sans Pro', Arial, sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
   margin-bottom: 1.45em;
   text-align: justify;
@@ -224,8 +225,8 @@ a:hover {
 .sidebar {
   float: left;
   width: 14%;
-  padding-left: 1em;
-  padding-right: 2.125em;
+  padding-left: 3em;
+  padding-right: 3em;
   border-right: 1px solid #e7e7e7;
 }
 
