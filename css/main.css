@@ -104,9 +104,9 @@ section {
 
 /* =Info Bar
 -------------------------------------------------------------- */
-#info-bar {
-  background-color: #3cb5f9; }
-  #info-bar a {
+#footer {
+  background-color: #404040; }
+  #footer a {
     color: white;
     font-size: 14px;
     text-transform: uppercase;
@@ -115,14 +115,14 @@ section {
     padding: 10px; }
     #info-bar a:hover {
       background-color: #0793e2; }
-  #info-bar span.all-tutorials,
-  #info-bar span.back-to-tutorial {
+  #footer span.all-tutorials,
+  #footer span.back-to-tutorial {
     display: block;
     width: 50%; }
-  #info-bar span.all-tutorials {
+  #footer span.all-tutorials {
     float: left;
     text-align: left; }
-  #info-bar span.back-to-tutorial {
+  #footer span.back-to-tutorial {
     float: right;
     text-align: right; }
 
