@@ -105,7 +105,8 @@ section {
 /* =Info Bar
 -------------------------------------------------------------- */
 #footer {
-  background-color: #404040; }
+  background-color: #404040;
+  color: white;}
   #footer a {
     color: white;
     font-size: 14px;
@@ -113,7 +114,7 @@ section {
     display: inline-block;
     margin: 0;
     padding: 10px; }
-    #info-bar a:hover {
+    #footer a:hover {
       background-color: #0793e2; }
   #footer span.all-tutorials,
   #footer span.back-to-tutorial {
